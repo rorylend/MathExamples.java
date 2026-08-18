@@ -1,8 +1,3 @@
-# 🧮 Math Class Examples
-
-This repository demonstrates several methods from Java's built-in `Math` class, including absolute value, square root, power, max, random number generation, and rounding.
-
----
 
 ## 🟡 MathExamples.java
 
